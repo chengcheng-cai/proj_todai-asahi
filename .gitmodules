@@ -1,0 +1,3 @@
+[submodule "build_code/data_todai-asahi"]
+	path = build_code/data_todai-asahi
+	url = https://github.com/chengcheng-cai/data_todai-asahi.git
